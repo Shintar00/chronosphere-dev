@@ -1,0 +1,11 @@
+flask==2.0.3
+flask-cors==3.0.10
+openai==0.27.0
+requests==2.26.0
+beautifulsoup4==4.12.3
+python-dotenv==0.19.2
+duckduckgo-search==6.2.13
+werkzeug==2.0.3
+langchain==0.0.184
+python-dateutil==2.8.2
+tenacity==8.2.2
